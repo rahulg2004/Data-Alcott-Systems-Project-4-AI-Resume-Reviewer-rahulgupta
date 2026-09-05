@@ -1,0 +1,115 @@
+{
+    "technical": {
+        "programming": [
+            "python",
+            "java",
+            "javascript",
+            "typescript",
+            "c",
+            "c++",
+            "c#",
+            "php",
+            "r",
+            "ruby",
+            "go",
+            "kotlin",
+            "swift",
+            "sql"
+        ],
+
+        "web": [
+            "html",
+            "css",
+            "bootstrap",
+            "react",
+            "angular",
+            "vue",
+            "node.js",
+            "nodejs",
+            "express",
+            "django",
+            "flask",
+            "fastapi"
+        ],
+
+        "data_science": [
+            "machine learning",
+            "deep learning",
+            "nlp",
+            "natural language processing",
+            "computer vision",
+            "tensorflow",
+            "pytorch",
+            "keras",
+            "scikit-learn",
+            "sklearn",
+            "pandas",
+            "numpy",
+            "matplotlib",
+            "seaborn",
+            "opencv"
+        ],
+
+        "database": [
+            "mysql",
+            "postgresql",
+            "mongodb",
+            "oracle",
+            "sqlite",
+            "redis",
+            "firebase"
+        ],
+
+        "cloud": [
+            "aws",
+            "azure",
+            "gcp",
+            "google cloud",
+            "docker",
+            "kubernetes"
+        ],
+
+        "tools": [
+            "git",
+            "github",
+            "gitlab",
+            "linux",
+            "excel",
+            "power bi",
+            "tableau",
+            "jupyter",
+            "jupyter notebook",
+            "vs code"
+        ],
+
+        "ai": [
+            "artificial intelligence",
+            "generative ai",
+            "chatgpt",
+            "gemini",
+            "transformers",
+            "bert",
+            "llm",
+            "large language model"
+        ]
+    },
+
+    "soft": [
+        "communication",
+        "teamwork",
+        "leadership",
+        "problem solving",
+        "problem-solving",
+        "time management",
+        "adaptability",
+        "creativity",
+        "critical thinking",
+        "decision making",
+        "decision-making",
+        "collaboration",
+        "analytical thinking",
+        "presentation",
+        "organization",
+        "interpersonal skills"
+    ]
+}

@@ -1,0 +1,29 @@
+========================================
+       AI RESUME REVIEWER REPORT
+========================================
+
+Resume Score: 90/100
+ATS Score: 100/100
+
+TECHNICAL SKILLS
+python, java, javascript, c, c++, sql, html, css, react, django, machine learning, deep learning, nlp, natural language processing, tensorflow, pytorch, scikit-learn, pandas, numpy, mysql, mongodb, aws, docker, git, github, generative ai
+
+SOFT SKILLS
+communication, teamwork, leadership, problem solving, adaptability, creativity
+
+EXPERIENCE
+Years: 2
+Experience detected: True
+
+EDUCATION
+bachelor, university, computer science, engineering
+
+ATS ISSUES
+No major ATS issues detected.
+
+IMPROVEMENT SUGGESTIONS
+- Good variety of technical skills has been detected.
+- Use measurable achievements such as percentages, numbers, users, revenue or performance improvements.
+- Excellent resume profile. Continue tailoring your resume for each target position.
+
+========================================
